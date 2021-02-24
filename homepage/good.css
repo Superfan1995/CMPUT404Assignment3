@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: "Times New Roman", Times, Serif;
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: justify;
+}
+
+.sidebar {
+    background-color: darkgray;
+}
+
+.topbar {
+    background-color: rgb(0, 180, 252);
+}
+
+h1 {
+    font-weight: bold;
+}

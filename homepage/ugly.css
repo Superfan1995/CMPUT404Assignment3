@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: "Brush Script MT", Times, Cursive;
+    text-align: justify;
+}
+
+.box {
+    background-color:  pink;
+}
+
+.sidebar {
+    background-color: yellow;
+}
+
+.topbar {
+    background-color: blue;
+}
+
